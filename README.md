@@ -74,10 +74,14 @@ python3 main.py
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
 
-* `{first}` - User first name
-* `{last}` - User last name
-* `{id}` - User ID
-* `{mention}` - Mention the user
+* `{halloo sayangg}` - User first name
+* `{sebelum nonton kamu harus join channel yang ada dibawah ini ya beb, setelah join kamu kembali ke bot ini lalu klik coba lagi 
+
+Kalo kamu mau nonton tanpa harus cape klik link/bot kamu bisa join grup VIP dengan harga yang sangat murah dan terjangkau ya beb.
+
+Harganya dimulai dari Rp. 25K kamu bisa menikmati ratusan hingga ribuan video sesuai genre tanpa cape klik link/bot}` - User last name
+* `{☎️ JOIN : @ivankaadmin}` - User ID
+* `{📓 TESTIMONI : @ivankavip}` - Mention the user
 * `{username}` - Username
 
 #### CUSTOM_CAPTION
